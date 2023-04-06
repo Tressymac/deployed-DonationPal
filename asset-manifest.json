@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/deployed-DonationPal/static/css/main.8277009e.css",
+    "main.js": "/deployed-DonationPal/static/js/main.f6cb6212.js",
+    "static/js/27.c6e192fa.chunk.js": "/deployed-DonationPal/static/js/27.c6e192fa.chunk.js",
+    "static/media/handHeart.jpeg": "/deployed-DonationPal/static/media/handHeart.3690c242aaaf745399dd.jpeg",
+    "static/media/1.png": "/deployed-DonationPal/static/media/1.599a0a4e54d8cbd3d20d.png",
+    "index.html": "/deployed-DonationPal/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8277009e.css",
+    "static/js/main.f6cb6212.js"
+  ]
+}
